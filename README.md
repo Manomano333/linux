@@ -1,25 +1,5 @@
 # linux
-Conversation opened. 1 unread message.
 
-Skip to content
-Using Kongu Engineering College Mail with screen readers
-Trying to connect to Chat...
-If this issue persists, learn more
-1 of 2,361
-Fwd:
-Inbox
-
-JAYA KRISHNA V S 20ECR058
-11:55 AM (0 minutes ago)
-to me
-
-
-
----------- Forwarded message ---------
-From: GUHAN C 20ECR047 <guhanc.20ece@kongu.edu>
-Date: Thu, Nov 17, 2022 at 11:50 AM
-Subject:
-To: <jayakrishnavs.20ece@kongu.edu>
 
 
 FACTORIAL 
